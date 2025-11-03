@@ -41,29 +41,29 @@ List each chart you made, its type, and what it shows. Add a link or embed an im
 | # | Chart Title | Chart Type (Bar, Histogram, Scatter, etc.) | Brief Description | Link or Image |
 |---|-------------|-------------------------------------------|-------------------|---------------|
 | 1 | Hours Exercising vs. GPA | Bar Chart | Shows the correlation between the amount of time spent exercising vs GPA | ![Chart 1](Figure_1.png) |
-| 2 | _Distribution of Screen Time_ | Histogram | Shows how many students fall into different screen-time ranges. | ![Chart 2](chart2.png) |
-| 3 | _Caffeine Consumption vs GPA_ | Scatter Plot | Shows relationship between caffeine intake and GPA. | ![Chart 3](chart3.png) |
+| 2 | _Distribution of Screen Time_ | Histogram | Shows how many students fall into different GPA ranges. | ![Chart 2](chart2.png) |
+| 3 | _Caffeine Consumption vs GPA_ | Scatter Plot | Shows relationship between the amount of time spent exercising and GPA. | ![Chart 3](chart3.png) |
 
 ---
 
 ## Data Analysis & Insights
 Write a short analysis of your findings. Include at least one interesting insight from your data.
 
-> _Example:_ “We found that students who sleep 7–8 hours per night reported higher average GPAs than those who sleep less than 5 hours. Energy drink consumption peaked among 11th graders.”
+> I found that students who exercise for more than 3 hours per week reported having a higher GPA than those who didn't. Hours spent exercising generally peaked amongst people with a GPA of 3.4 or higher.
 
 ---
 
 ## Reflection
 Answer briefly:
-- What went well in your project?
-- What was the most challenging part?
-- If you had more time, what would you do differently?
+- One thing that went well during this project includes my ability to easily collect data and turn it into graphs
+- The most dificult part of this project was keeping myself from overcomplicating my code and simply letting the additional libraries do their jobs.
+- I would have obtained more factual data so that I could present a more accurate representation of reality.
 
 ---
 
 ### Submission Checklist
-- [ ] Link to survey included
-- [ ] Questions listed
-- [ ] Raw data file attached or linked
-- [ ] 3+ charts created and linked/embedded
-- [ ] Data analysis section filled in
+- [✓] Link to survey included
+- [✓] Questions listed
+- [✓] Raw data file attached or linked
+- [✓] 3+ charts created and linked/embedded
+- [✓] Data analysis section filled in

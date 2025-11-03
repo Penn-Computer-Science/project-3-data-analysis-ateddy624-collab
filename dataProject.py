@@ -4,8 +4,8 @@ import seaborn as sns
 import random
 import matplotlib.pyplot as plt
 
-#df=pd.read_csv('surveyData.csv')
-df=pd.read_csv('realData.csv')
+df=pd.read_csv('surveyData.csv')
+#df=pd.read_csv('realData.csv')
 mySurveyData=pd.DataFrame(df)
 
 print(mySurveyData.info())
