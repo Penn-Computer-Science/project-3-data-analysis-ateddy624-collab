@@ -40,11 +40,7 @@
       - Submit your Python code and your cleaned dataset along with the report.
 
 
-**Example Project Ideas**
- - Study habits vs. GPA.
- - Favorite streaming platform vs. hours per week.
- - Daily screen time vs. average sleep.
- - Students’ coffee/energy drink consumption and class performance.
+
 
 **Grading Rubric**
 Criteria/Points

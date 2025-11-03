@@ -4,12 +4,13 @@ import seaborn as sns
 import random
 import matplotlib.pyplot as plt
 
-df=pd.read_csv('C:Documents\GitHub\project-3-data-analysis-ateddy624-collab\surveyData.csv')
+#df=pd.read_csv('surveyData.csv')
+df=pd.read_csv('realData.csv')
 mySurveyData=pd.DataFrame(df)
 
 print(mySurveyData.info())
 #print(mySurveyData)
-dataPoints= 28
+dataPoints= 5
 hours_exercising={"Time exercising" : "GPA"}
 
 print("Average GPA by year:")

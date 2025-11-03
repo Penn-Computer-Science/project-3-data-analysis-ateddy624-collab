@@ -31,7 +31,7 @@ List the questions you asked in your survey and their type:
 - **Link to Raw Data File (CSV):** [Download here](C:\Users\ateddy624\Documents\GitHub\project-3-data-analysis-ateddy624-collab\surveyData.csv)
 - **Number of Columns:** 5
 - **Number of Rows:** 28
-- **Any Cleaning Steps Taken:** _Describe what you did (handled missing values, renamed columns, converted data types, etc.)_
+- **Any Cleaning Steps Taken:** _I fixed any outlier data, formatted the data, and changed the column names._
 
 ---
 
@@ -40,7 +40,7 @@ List each chart you made, its type, and what it shows. Add a link or embed an im
 
 | # | Chart Title | Chart Type (Bar, Histogram, Scatter, etc.) | Brief Description | Link or Image |
 |---|-------------|-------------------------------------------|-------------------|---------------|
-| 1 | _Average Sleep by Grade Level_ | Bar Chart | Shows average hours of sleep for each grade level. | ![Chart 1](chart1.png) |
+| 1 | Hours Exercising vs. GPA | Bar Chart | Shows the correlation between the amount of time spent exercising vs GPA | ![Chart 1](Figure_1.png) |
 | 2 | _Distribution of Screen Time_ | Histogram | Shows how many students fall into different screen-time ranges. | ![Chart 2](chart2.png) |
 | 3 | _Caffeine Consumption vs GPA_ | Scatter Plot | Shows relationship between caffeine intake and GPA. | ![Chart 3](chart3.png) |
 
